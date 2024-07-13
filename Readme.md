@@ -1,5 +1,8 @@
 #  Stack Overflow Tag Prediction Project
 
+![5mkOX](https://github.com/user-attachments/assets/4c316b89-e159-4905-abe1-35ce3d8c8450)
+
+
 This project is aimed at predicting the tags for questions posted on Stack Overflow. It involves preprocessing the data, preparing it for machine learning, and building a model to classify the questions based on their content.
 
 ## Table of Contents
