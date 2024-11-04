@@ -8,12 +8,10 @@ This project is aimed at predicting the tags for questions posted on Stack Overf
 ## Table of Contents
 
 1. [Features](#features)
-2. [Installation](#installation)
-3. [Dataset](#dataset)
-4. [Usage](#usage)
-5. [File Structure](#file-structure)
+2. [Dataset](#dataset)
+3. [Usage](#usage)
+4. [File Structure](#file-structure)
 6. [Dependencies](#dependencies)
-7. [License](#license)
 
 ## Features
 
@@ -23,18 +21,7 @@ This project is aimed at predicting the tags for questions posted on Stack Overf
 - **Multi-Label Classification**: Training various classifiers to predict multiple tags for each question.
 - **Evaluation**: Evaluating classifiers using metrics like precision, recall, F1-score, and Hamming loss.
 
-## Installation
 
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/yourusername/stackoverflow-tag-prediction.git
-   cd stackoverflow-tag-prediction
-   ```
-
-2. **Install the required packages**:
-   ```sh
-   pip install -r requirements.txt
-   ```
 
 ## Dataset
 
@@ -79,10 +66,6 @@ stackoverflow-tag-prediction/
 - **nltk**: For natural language processing tasks.
 - **beautifulsoup4**: For HTML parsing.
 - **scikit-learn**: For machine learning tasks.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Detailed Code Explanation
 
